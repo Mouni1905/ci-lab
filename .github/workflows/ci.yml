@@ -20,5 +20,6 @@ jobs:
 
       - name: Run Script
         run: node app.js
+
       - name: Deploy Step
-       run: echo "Deploying to production..."
+         run: echo "Deploying to production..."
